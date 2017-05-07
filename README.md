@@ -1,1 +1,1 @@
-Project to test Robusto rest client API with Spring support for the (fake) PlaceHolder Webservice
+Project to test [Robusto rest client API](https://github.com/HomeAdvisor/Robusto/wiki) (from [HomeAdvisor](https://homeadvisor.tech/robusto-java-api-client-framework/)) with [Spring Rest Client support](https://spring.io/guides/gs/consuming-rest/) (and [robusto-spring](https://github.com/HomeAdvisor/Robusto/tree/master/robusto-spring)) for the [(fake) PlaceHolder Webservice](https://jsonplaceholder.typicode.com/).
